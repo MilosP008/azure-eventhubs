@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dc16fmNyldU7Ufqz3bJ3OD+hbGnyauxMervo2Q6o4Ir6FfwIFjWbIF3Z7fowmBtHRQ/fag64Y8t/5r6yRnk7cA==",
+  "dgSpecHash": "44B3AXw7+UANcfD6TuWGJd3BDcDqndwWu6rgj7ntjfy+0iqTM4ZZL+L3O0EZmfLCgsSX2eMAGxjk7XLrfoD8ng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.petrovic\\Documents\\Training\\Azure\\Azure EventHub\\Azure EventHub.csproj",
+  "projectFilePath": "C:\\Users\\m.petrovic\\Documents\\Training\\Azure\\Azure EventHub\\Azure EventHubs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\m.petrovic\\.nuget\\packages\\azure.core\\1.12.0\\azure.core.1.12.0.nupkg.sha512",
     "C:\\Users\\m.petrovic\\.nuget\\packages\\azure.messaging.eventhubs\\5.4.0\\azure.messaging.eventhubs.5.4.0.nupkg.sha512",

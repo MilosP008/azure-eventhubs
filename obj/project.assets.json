@@ -3144,9 +3144,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.petrovic\\Documents\\Training\\Azure\\Azure EventHub\\Azure EventHub.csproj",
-      "projectName": "Azure EventHub",
-      "projectPath": "C:\\Users\\m.petrovic\\Documents\\Training\\Azure\\Azure EventHub\\Azure EventHub.csproj",
+      "projectUniqueName": "C:\\Users\\m.petrovic\\Documents\\Training\\Azure\\Azure EventHub\\Azure EventHubs.csproj",
+      "projectName": "Azure EventHubs",
+      "projectPath": "C:\\Users\\m.petrovic\\Documents\\Training\\Azure\\Azure EventHub\\Azure EventHubs.csproj",
       "packagesPath": "C:\\Users\\m.petrovic\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\m.petrovic\\Documents\\Training\\Azure\\Azure EventHub\\obj\\",
       "projectStyle": "PackageReference",

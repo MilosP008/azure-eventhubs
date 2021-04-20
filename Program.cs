@@ -5,7 +5,7 @@ using System;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Azure_EventHub
+namespace Azure_EventHubs
 {
     class Program
     {
@@ -52,7 +52,7 @@ namespace Azure_EventHub
                 //cancellationSource.CancelAfter(TimeSpan.FromSeconds(45));
 
                 int eventsRead = 0;
-                int maximumEvents = 3;
+                int maximumEvents = 5;
 
                 var options = new ReadEventOptions
                 {
