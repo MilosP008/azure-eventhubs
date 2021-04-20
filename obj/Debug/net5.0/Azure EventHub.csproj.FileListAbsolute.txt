@@ -1,0 +1,22 @@
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\obj\Debug\net5.0\Azure EventHub.csprojAssemblyReference.cache
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\obj\Debug\net5.0\Azure EventHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\obj\Debug\net5.0\Azure EventHub.AssemblyInfoInputs.cache
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\obj\Debug\net5.0\Azure EventHub.AssemblyInfo.cs
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\obj\Debug\net5.0\Azure EventHub.csproj.CoreCompileInputs.cache
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\bin\Debug\net5.0\Azure EventHub.exe
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\bin\Debug\net5.0\Azure EventHub.deps.json
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\bin\Debug\net5.0\Azure EventHub.runtimeconfig.json
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\bin\Debug\net5.0\Azure EventHub.runtimeconfig.dev.json
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\bin\Debug\net5.0\Azure EventHub.dll
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\bin\Debug\net5.0\ref\Azure EventHub.dll
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\bin\Debug\net5.0\Azure EventHub.pdb
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\bin\Debug\net5.0\Azure.Messaging.EventHubs.dll
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\obj\Debug\net5.0\Azure EventHub.csproj.CopyComplete
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\obj\Debug\net5.0\Azure EventHub.dll
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\obj\Debug\net5.0\ref\Azure EventHub.dll
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\obj\Debug\net5.0\Azure EventHub.pdb
+C:\Users\m.petrovic\Documents\Training\Azure\Azure EventHub\obj\Debug\net5.0\Azure EventHub.genruntimeconfig.cache
